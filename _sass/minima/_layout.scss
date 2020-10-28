@@ -277,3 +277,31 @@
 		color: $grey-color-dark;
 	}
 }
+
+/**
+ * Fingerboards
+ */
+
+.card {
+	width: 32%;
+	padding: 16px;
+	background-color: $grey-color-light;
+	display: inline-block;
+	margin-bottom: 16px;
+
+	img {
+		object-fit: contain; 
+		object-position: center;
+		width: calc(32%-32px);
+		height: calc(32%-32px);
+	}
+
+	h3 {
+		line-height: 16pt;
+	}
+
+	p.fb_material {
+		font-size: 10pt;
+		line-height: 12pt;
+	}
+}

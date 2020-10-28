@@ -158,6 +158,15 @@ table td { border: 1px solid #effcfa; }
 
 .post-content a { color: #23d9bc; }
 
+/** Fingerboards */
+.card { width: 32%; padding: 16px; background-color: #effcfa; display: inline-block; margin-bottom: 16px; }
+
+.card img { object-fit: contain; object-position: center; width: calc(32%-32px); height: calc(32%-32px); }
+
+.card h3 { line-height: 16pt; }
+
+.card p.fb_material { font-size: 10pt; line-height: 12pt; }
+
 /** Syntax highlighting styles */
 .highlight { background: #fff; }
 

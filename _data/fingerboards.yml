@@ -1,0 +1,15 @@
+- name: ufo pink
+  materials: tanganika, maple
+  img: ufo_0.jpg
+
+- name: yellow
+  materials: maple
+  img: yellow.jpg
+
+- name: fenis 
+  materials: tanganika, blue veneer, white veneer, unknown wood
+  img: fb_2.jpg
+
+- name: popsicle_1 
+  materials: purple veneer, unknown wood
+  img: fb.jpg
